@@ -1,0 +1,9 @@
+# Ignore CSV files
+*.csv
+
+# Ignore Jupyter notebook files
+*.ipynb
+
+# Ignore Word files
+*.docx
+*.docg
